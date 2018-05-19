@@ -12,5 +12,8 @@ In order to run the model cd to the Sprint2 folder and run:
   
 From there, run the code by clicking the first cell and hitting run till you reach the bottom cell. 
 
-Dataset:  Mnist
-Objective: Create a graphical representation of the data set, organize by common and least common, and extrapolate the model into another visual representation besides a bar graph. 
+##Dataset:
+  Mnist
+  
+##Objective: 
+  Create a graphical representation of the data set, organize by common and least common, and extrapolate the model into another visual representation besides a bar graph. 
