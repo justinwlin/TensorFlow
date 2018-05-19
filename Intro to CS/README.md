@@ -7,7 +7,9 @@ In order to run anything in this folder please make sure that you have the neces
 4. Matplotlib
 5. Numpy
 
-In order to run the model cd to the Sprint2 folder and run: jupyter notebook Sprint_2.ipynb.
+In order to run the model cd to the Sprint2 folder and run: 
+  jupyter notebook Sprint_2.ipynb.
+  
 From there, run the code by clicking the first cell and hitting run till you reach the bottom cell. 
 
 Dataset:  Mnist
